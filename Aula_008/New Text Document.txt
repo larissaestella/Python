@@ -1,0 +1,1 @@
+#Algoritmo para gerar senha aleatórias: O usuário deve escolher as letras, os números e a senha devrá ser gerada, de forma aleatória com as letras e numeros escolhidos pelo usuário
